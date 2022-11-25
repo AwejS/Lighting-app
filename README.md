@@ -6,3 +6,5 @@
 
 # Login Issue
 User not able to login in multiple devices
+# Add item to cart 
+facing issue while adding item to the cart which was added already
