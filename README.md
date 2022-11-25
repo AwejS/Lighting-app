@@ -1,12 +1,4 @@
-# COVID-19 Tracker
+# LightingApp
 
-API used: https://covid19.mathdro.id/api
-
-Setup:
-- run ```npm i && npm start```
-
-##testing jira
-##jira121
-#live demo:
-#latest update
-#final update
+# User Registration Issue
+1.User not able to upload his or her profile picture of size greater than 1mb.
